@@ -1,7 +1,7 @@
 
 # AI Assistant Using ToolCall Function
 
-This project bridges the gap between AI language models and real-world data. By connecting an Ollama-served LLM with a weather API, it demonstrates how LLMs can call external tools to provide accurate, up-to-date information on demand. 
+This project bridges the gap between AI language models and real-world data. In this example, we provided the Ollama-served LLM with a weather API, demonstrating how LLMs can call external tools to provide accurate, up-to-date information on demand. 
 
 It's a hands-on example of LLM tool use, perfect for developers exploring agent-style workflows.
 
@@ -44,7 +44,7 @@ The model produces a natural-language answer that includes the current weather c
 
 - Change the model name in the model='llama 4' line to any other local Ollama-compatible model
 
-- Add more tools in the tools list can allow the model to acquire accurate real-time data is different domains
+- Define more functions in the tools list can allow the model to acquire accurate real-time data is different domains
 
 
 

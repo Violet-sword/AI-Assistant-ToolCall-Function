@@ -42,7 +42,7 @@ The model produces a natural-language answer that includes the current weather c
 
 ## Customization
 
-- Change the model name in the model='llama 4' line to any other local Ollama-compatible model
+- Change the model name in the llm_model='llama4' line to any other local Ollama-compatible model
 
 - Define more functions in the tools list can allow the model to acquire accurate real-time data is different domains
 

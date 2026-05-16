@@ -1,5 +1,5 @@
 
-# AI Assistant Using ToolCall Function
+# AI Agent Using ToolCall Function
 
 This project bridges the gap between AI language models and real-world data. In this example, we provided the Ollama-served LLM with a weather API, demonstrating how LLMs can call external tools to provide accurate, up-to-date information on demand. 
 
